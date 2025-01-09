@@ -98,7 +98,7 @@ section {
     display: flex;
     align-items: center;
     padding: 0 9%;
-    background: url('/portfolio/images/bg-img.png') no-repeat;
+    background: url('../images/bg-img.png') no-repeat;
     background-size: auto;
     background-position: right;
     margin-right: 10px;
