@@ -85,7 +85,7 @@ $(document).ready(function () {
             githubLink: 'https://github.com/Ritik0706/SpeedTypingGame'
         },
         {
-            imgSrc: '/images/Quotes-website.png',
+            imgSrc: 'images/Quotes-website.png',
             title: 'Quotes Generator',
             description: 'This simple web app randomly generates thought-provoking quotes using HTML, CSS, and JavaScript. Perfect for daily motivation or sharing on social media.',
             demoLink: 'https://ritik0706.github.io/quotes-app/',
