@@ -78,7 +78,7 @@ $(document).ready(function () {
     // Array of card data (you can fetch it dynamically if needed)
     var cardsData = [
         {
-            imgSrc: '/images/Speed-Typing-Game.png',
+            imgSrc: '/portfolio/images/Speed-Typing-Game.png',
             title: 'Speed Typing Game',
             description: 'A thrilling challenge where players type rapidly to beat the clock, crafted with HTML, CSS, and JavaScript for an engaging and interactive experience.',
             demoLink: 'https://speedyfingers.netlify.app/',
