@@ -85,56 +85,56 @@ $(document).ready(function () {
             githubLink: 'https://github.com/Ritik0706/SpeedTypingGame'
         },
         {
-            imgSrc: '/images/Quotes-website.png',
+            imgSrc: '/portfolio/images/Quotes-website.png',
             title: 'Quotes Generator',
             description: 'This simple web app randomly generates thought-provoking quotes using HTML, CSS, and JavaScript. Perfect for daily motivation or sharing on social media.',
             demoLink: 'https://ritik0706.github.io/quotes-app/',
             githubLink: 'https://github.com/Ritik0706/quotes-app.git'
         },
         // {
-        //     imgSrc: '/images/news-app.png',
+        //     imgSrc: '/portfolio/images/news-app.png',
         //     title: 'News App',
         //     description: 'Personalize your news feed, explore trending topics, all with a sleek and intuitive interface created using HTML, CSS, and JavaScript.',
         //     demoLink: 'demo_link_3',
         //     githubLink: 'https://github.com/Ritik0706/news-app/'
         // },
         {
-            imgSrc: '/images/Meme-Generator.png',
+            imgSrc: '/portfolio/images/Meme-Generator.png',
             title: 'Meme Generator',
             description: 'Create hilarious memes with customizable text and images using this fun web tool built with HTML, CSS, and JavaScript. ',
             demoLink: 'https://ritik0706.github.io/meme-generator/',
             githubLink: 'https://github.com/Ritik0706/meme-generator.git'
         },
         // {
-        //     imgSrc: '/images/Magic-Notes.png',
+        //     imgSrc: '/portfolio/images/Magic-Notes.png',
         //     title: 'Notes Taking App',
         //     description: 'A simple web application built with HTML, CSS, and JavaScript for jotting down and organizing your thoughts, ideas, and reminders conveniently.',
         //     demoLink: 'demo_link_1',
         //     githubLink: 'github_link_1'
         // },
         {
-            imgSrc: '/images/Game.png',
+            imgSrc: '/portfolio/images/Game.png',
             title: 'Route Racer',
             description: 'It is an exhilarating JavaScript game where players navigate through a maze of obstacles to reach the finish line. A simple game built with HTML, CSS, and JavaScript. ',
             demoLink: 'https://ritik0706.github.io/javascriptgame/',
             githubLink: 'https://github.com/Ritik0706/javascriptgame'
         },
         {
-            imgSrc: '/images/teamUi.png',
+            imgSrc: '/portfolio/images/teamUi.png',
             title: 'Animated Team UI',
             description: 'An animated team member UI crafted with HTML, CSS, and JavaScript, showcasing dynamic transitions and engaging hover effects for a team profiles.',
             demoLink: 'https://animatedteamui.netlify.app/',
             githubLink: 'https://github.com/Ritik0706/teamUI'
         },
         // {
-        //     imgSrc: '/images/weather-app.png',
+        //     imgSrc: '/portfolio/images/weather-app.png',
         //     title: 'Weather App',
         //     description: 'Get real-time updates on temperature, humidity, wind speed, and more, all presented in a user-friendly interface built with HTML, CSS, and JavaScript.',
         //     demoLink: 'https://weather-works.netlify.app/',
         //     githubLink: 'github_link_1'
         // },
         // {
-        //     imgSrc: '/images/bg-img.png',
+        //     imgSrc: '/portfolio/images/bg-img.png',
         //     title: 'Card 9',
         //     description: 'Some text describing Card 9.',
         //     demoLink: 'demo_link_1',
