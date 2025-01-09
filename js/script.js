@@ -78,14 +78,14 @@ $(document).ready(function () {
     // Array of card data (you can fetch it dynamically if needed)
     var cardsData = [
         {
-            imgSrc: 'portfolio/images/Speed-Typing-Game.png',
+            imgSrc: '/portfolio/images/Speed-Typing-Game.png',
             title: 'Speed Typing Game',
             description: 'A thrilling challenge where players type rapidly to beat the clock, crafted with HTML, CSS, and JavaScript for an engaging and interactive experience.',
             demoLink: 'https://speedyfingers.netlify.app/',
             githubLink: 'https://github.com/Ritik0706/SpeedTypingGame'
         },
         {
-            imgSrc: 'images/Quotes-website.png',
+            imgSrc: '/images/Quotes-website.png',
             title: 'Quotes Generator',
             description: 'This simple web app randomly generates thought-provoking quotes using HTML, CSS, and JavaScript. Perfect for daily motivation or sharing on social media.',
             demoLink: 'https://ritik0706.github.io/quotes-app/',
