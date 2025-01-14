@@ -51,7 +51,7 @@ window.onscroll = () => {
     footer.classList.toggle('show-animate', this.innerHeight + this.scrollY >= document.scrollingElement.scrollHeight);
 }
 var typed = new Typed('#element', {
-    strings: ['Fresher', 'Front-end Developer', 'Web Developer', 'Back-end developer'],
+    strings: ['Fresher', 'Web Developer'],
     loop: true,
     typeSpeed: 50,
     backSpeed: 40
