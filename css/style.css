@@ -136,6 +136,7 @@ section {
     position: relative;
     font-size: 1.6rem;
     margin: 2rem 0 4rem;
+    text-align: justify;
 }
 
 .btn-box {
@@ -383,8 +384,8 @@ span {
 
 .education-content .content p {
     font-size: 13px;
+    text-align: justify;
 }
-
 
 .education-content .content {
     position: relative;
