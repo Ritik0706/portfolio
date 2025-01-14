@@ -91,13 +91,6 @@ $(document).ready(function () {
             demoLink: 'https://ritik0706.github.io/quotes-app/',
             githubLink: 'https://github.com/Ritik0706/quotes-app.git'
         },
-        // {
-        //     imgSrc: '/portfolio/images/news-app.png',
-        //     title: 'News App',
-        //     description: 'Personalize your news feed, explore trending topics, all with a sleek and intuitive interface created using HTML, CSS, and JavaScript.',
-        //     demoLink: 'demo_link_3',
-        //     githubLink: 'https://github.com/Ritik0706/news-app/'
-        // },
         {
             imgSrc: '/portfolio/images/Meme-Generator.png',
             title: 'Meme Generator',
@@ -105,13 +98,6 @@ $(document).ready(function () {
             demoLink: 'https://ritik0706.github.io/meme-generator/',
             githubLink: 'https://github.com/Ritik0706/meme-generator.git'
         },
-        // {
-        //     imgSrc: '/portfolio/images/Magic-Notes.png',
-        //     title: 'Notes Taking App',
-        //     description: 'A simple web application built with HTML, CSS, and JavaScript for jotting down and organizing your thoughts, ideas, and reminders conveniently.',
-        //     demoLink: 'demo_link_1',
-        //     githubLink: 'github_link_1'
-        // },
         {
             imgSrc: '/portfolio/images/Game.png',
             title: 'Route Racer',
@@ -126,13 +112,13 @@ $(document).ready(function () {
             demoLink: 'https://animatedteamui.netlify.app/',
             githubLink: 'https://github.com/Ritik0706/teamUI'
         },
-        // {
-        //     imgSrc: '/portfolio/images/weather-app.png',
-        //     title: 'Weather App',
-        //     description: 'Get real-time updates on temperature, humidity, wind speed, and more, all presented in a user-friendly interface built with HTML, CSS, and JavaScript.',
-        //     demoLink: 'https://weather-works.netlify.app/',
-        //     githubLink: 'github_link_1'
-        // },
+        {
+            imgSrc: '/portfolio/images/QR-Code-Generator.png',
+            title: 'Weather App',
+            description: 'A QR code generator using HTML, CSS, and JavaScript allows users to input text or URLs, which are then dynamically converted into a QR code displayed as an image.',
+            demoLink: 'https://ritik0706.github.io/qr_code_generator/',
+            githubLink: 'https://github.com/Ritik0706/qr_code_generator'
+        },
         // {
         //     imgSrc: '/portfolio/images/bg-img.png',
         //     title: 'Card 9',
