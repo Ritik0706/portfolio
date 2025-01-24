@@ -113,7 +113,7 @@ $(document).ready(function () {
             githubLink: 'https://github.com/Ritik0706/qr_code_generator'
         },
         {
-            imgSrc: '/images/quiz_app.jpg',
+            imgSrc: '/portfolio/images/quiz_app.jpg',
             title: 'Animated Team UI',
             description: 'An animated team member UI crafted with HTML, CSS, and JavaScript, showcasing dynamic transitions and engaging hover effects for a team profiles.',
             demoLink: 'https://ritik0706.github.io/quiz_app/',
