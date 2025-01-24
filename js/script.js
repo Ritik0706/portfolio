@@ -106,19 +106,27 @@ $(document).ready(function () {
             githubLink: 'https://github.com/Ritik0706/javascriptgame'
         },
         {
-            imgSrc: '/portfolio/images/teamUi.png',
-            title: 'Animated Team UI',
-            description: 'An animated team member UI crafted with HTML, CSS, and JavaScript, showcasing dynamic transitions and engaging hover effects for a team profiles.',
-            demoLink: 'https://animatedteamui.netlify.app/',
-            githubLink: 'https://github.com/Ritik0706/teamUI'
-        },
-        {
             imgSrc: '/portfolio/images/QR-Code-Generator.png',
             title: 'Weather App',
             description: 'A QR code generator using HTML, CSS, and JavaScript allows users to input text or URLs, which are then dynamically converted into a QR code displayed as an image.',
             demoLink: 'https://ritik0706.github.io/qr_code_generator/',
             githubLink: 'https://github.com/Ritik0706/qr_code_generator'
         },
+        {
+            imgSrc: '/images/quiz_app.jpg',
+            title: 'Animated Team UI',
+            description: 'An animated team member UI crafted with HTML, CSS, and JavaScript, showcasing dynamic transitions and engaging hover effects for a team profiles.',
+            demoLink: 'https://ritik0706.github.io/quiz_app/',
+            githubLink: 'https://github.com/Ritik0706/quiz_app'
+        },
+        {
+            imgSrc: '/portfolio/images/teamUi.png',
+            title: 'Animated Team UI',
+            description: 'An animated team member UI crafted with HTML, CSS, and JavaScript, showcasing dynamic transitions and engaging hover effects for a team profiles.',
+            demoLink: 'https://animatedteamui.netlify.app/',
+            githubLink: 'https://github.com/Ritik0706/teamUI'
+        },
+      
         // {
         //     imgSrc: '/portfolio/images/bg-img.png',
         //     title: 'Card 9',
