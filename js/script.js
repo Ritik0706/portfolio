@@ -107,15 +107,15 @@ $(document).ready(function () {
         },
         {
             imgSrc: '/portfolio/images/QR-Code-Generator.png',
-            title: 'Weather App',
-            description: 'A QR code generator using HTML, CSS, and JavaScript allows users to input text or URLs, which are then dynamically converted into a QR code displayed as an image.',
+            title: 'QR Code Generator',
+            description: 'A QR code generator using HTML, CSS, and JavaScript allows users to input text or URLs, which are dynamically converted into a QR code displayed as an image.',
             demoLink: 'https://ritik0706.github.io/qr_code_generator/',
             githubLink: 'https://github.com/Ritik0706/qr_code_generator'
         },
         {
             imgSrc: '/portfolio/images/quiz_app.jpg',
-            title: 'Animated Team UI',
-            description: 'An animated team member UI crafted with HTML, CSS, and JavaScript, showcasing dynamic transitions and engaging hover effects for a team profiles.',
+            title: 'Quiz Hub: Brain Teasers',
+            description: 'Quiz Hub: Brain Teasers is the app to challenge your mind with fun puzzles. Sharpen your skills and boost your brainpower with a variety of quizzes.',
             demoLink: 'https://ritik0706.github.io/quiz_app/',
             githubLink: 'https://github.com/Ritik0706/quiz_app'
         },
